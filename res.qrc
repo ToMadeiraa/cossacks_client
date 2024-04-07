@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flagRu.svg</file>
+        <file>polFlag.png</file>
+        <file>pole.png</file>
+        <file>Flag_of_Ukraine.svg.png</file>
+        <file>ukFlag2.svg</file>
+        <file>vladimir.jpg</file>
+        <file>mainmenu_art.png</file>
+        <file>alpha0.png</file>
+        <file>dialog.png</file>
+        <file>back.png</file>
+        <file>back2.png</file>
+        <file>close.png</file>
+        <file>buttonfolder.png</file>
+    </qresource>
+</RCC>
